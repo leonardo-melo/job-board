@@ -1,55 +1,55 @@
-Website | Description | Location | Remote Policy
------------- | ------- | ------- | -------
-[RemoteOk](https://remoteok.io/remote-jobs) |  | Worldwide | Remote
-[Remote Works](https://remote.works-hub.com) |  | Worldwide | Remote
-[Remotive](https://remotive.com) |  | Worldwide | Remote
-[WeWorkRemotely](https://weworkremotely.com/) |  | Worldwide | Remote
-[WorkingNomads](https://www.workingnomads.com/jobs?category=development,system-administration) | | Worldwide | Remote
-[DevRemote](https://devremote.io/) | | Worldwide | Remote
-[EchoJobs](https://echojobs.io/) |  | Worldwide | Remote
-[RemoteMasters](https://remotemasters.dev/jobs) | | Worldwide | Remote
-[Jobspresso](https://jobspresso.co/) |  | Worldwide | Remote
-[NoDesk](https://nodesk.co/) |  | Worldwide | Remote
-[SkipTheDrive](https://www.skipthedrive.com/) |  | Worldwide | Remote
-[Pangian](https://pangian.com/) |  | Worldwide | Remote
-[RemoteWorkJunkie](https://jobs.remoteworkjunkie.com/) |  | Worldwide | Remote
-[Remote.co](https://remote.co/) |  | Worldwide | Remote
-[JustRemote](https://justremote.co/) |  | Worldwide | Remote
-[SwissDevJobs](https://swissdevjobs.ch/) |  | Switzerland | On-site, Hybrid, Remote
-[TechInAsia](https://www.techinasia.com/jobs) | | Asia | On-site, Hybrid, Remote
-[Wellfound (Old Angel.co)](https://wellfound.com/jobs) | | Worldwide | On-site, Hybrid, Remote
-[Landing.jobs](https://landing.jobs/) | | Worldwide | On-site, Hybrid, Remote
-[Relocate.me](https://relocate.me/) | Jobs for devs looking to relocate | Worldwide | On-site, Hybrid, Remote
-[Offerzen](https://www.offerzen.com/) | Free talent advisor to help you find new opportunities | Worldwide | On-site, Hybrid, Remote
-[Honeypot](https://www.honeypot.io/en/) | | Worldwide | On-site, Hybrid, Remote
-[Otta](https://otta.com/) | | Worldwide | On-site, Hybrid, Remote
-[Crunchboard](https://www.crunchboard.com/) | | Worldwide | On-site, Hybrid, Remote
-[PowerToFly](https://powertofly.com/jobs/) | | Worldwide | On-site, Hybrid, Remote
-[YCombinator Jobs](https://www.workatastartup.com/) | | Worldwide | On-site, Hybrid, Remote
-[FlexaCareers](https://flexa.careers/) | | Worldwide | On-site, Hybrid, Remote
-[DevItJobs](https://devitjobs.uk/jobs/all) | | United Kingdom | On-site, Hybrid, Remote
-[DevJobs.ro](https://devjob.ro/jobs/all) | | Romania | On-site, Hybrid, Remote
-[GermanTechJobs](https://germantechjobs.de/en/jobs/all/) | | Germany | On-site, Hybrid, Remote
-[DotNetDevs](https://dotnetdevs.co/jobs) | .net jobs | Worlwide | On-site, Hybrid, Remote
-[RustJobs](https://rustjobs.dev/) | Rust | Worldwide | On-site, Hybrid, Remote
-[Web3.career](https://web3.career/) | Web3 | Worldwide | On-site, Hybrid, Remote
-[RemoteFrontendJobs](https://www.remotefrontendjobs.com/) | Frontend | Worldwide | Remote
-[RubyRemote](https://rubyonremote.com/) | Ruby | Worldwide | On-site, Hybrid, Remote
-[JobsInJs](https://jobsinjs.com/) | Javascript | Worldwide | On-site, Hybrid, Remote
-[R-users](https://www.r-users.com/) | R | Worldwide | On-site, Hybrid, Remote
-[4dayweek](https://4dayweek.io/) | 4 day weeks | Worldwide | On-site, Hybrid, Remote
-[Ai-jobs](https://ai-jobs.net/) | Artificial Intelligence | Worldwide | On-site, Hybrid, Remote
-[DataJobs](https://datajobs.com/) | Data | Worldwide | On-site, Hybrid, Remote
-[KDNuggets](https://www.kdnuggets.com/jobs/index.html) | Data | Worldwide | On-site, Hybrid, Remote
-[DataYoshi](https://datayoshi.com/) | Data | Worldwide | On-site, Hybrid, Remote
-[DataUmbrella](https://jobs.dataumbrella.org/) | Data | Worldwide | On-site, Hybrid, Remote
-[OuterJoin](https://outerjoin.us/) | Data | Worldwide | Remote
-[StarBridgePartnets](https://starbridgepartners.com/job-listing/) | Data | Worldwide | On-site, Hybrid, Remote
-[OpenDataScience](https://jobs.opendatascience.com/) | Data | Worldwide | On-site, Hybrid, Remote
-[TechJobsForGood](https://techjobsforgood.com/) | Jobs with a social impact | Worldwide | On-site, Hybrid, Remote
-[Hitmarker](https://hitmarker.net/jobs) | Games | Worldwide | On-site, Hybrid, Remote
-[DevOpsJobs](https://devops-jobs.net/) | DevOps | Worldwide | On-site, Hybrid, Remote
-[Larajobs](https://larajobs.com/) | Php Laravel | Worldwide | On-site, Hybrid, Remote
-[RemoteWoman](https://remotewoman.com/) | Woman only job board | Worldwide | Remote
-[Dbt](https://www.getdbt.com/analytics-engineering/jobs) | Dbt Analytics Engineering | Worldwide | On-site, Hybrid, Remote
-[JustJoin](https://justjoin.it/) | B2B | Worldwide | On-site, Hybrid, Remote
+Website | Description | Location | Remote | Hybrid | Onsite 
+------- | ----------- | ------- | ------- | ------ | ------
+[RemoteOk](https://remoteok.io/remote-jobs) |  | :earth_americas:	 | :heavy_check_mark:
+[Remote Works](https://remote.works-hub.com) |  | :earth_americas: | :heavy_check_mark:
+[Remotive](https://remotive.com) |  | :earth_americas: | :heavy_check_mark:
+[WeWorkRemotely](https://weworkremotely.com/) |  | :earth_americas: | :heavy_check_mark:
+[WorkingNomads](https://www.workingnomads.com/jobs?category=development,system-administration) | | :earth_americas: | :heavy_check_mark:
+[DevRemote](https://devremote.io/) | | :earth_americas: | :heavy_check_mark:
+[EchoJobs](https://echojobs.io/) |  | :earth_americas: | :heavy_check_mark:
+[RemoteMasters](https://remotemasters.dev/jobs) | | :earth_americas: | :heavy_check_mark:
+[Jobspresso](https://jobspresso.co/) |  | :earth_americas: | :heavy_check_mark:
+[NoDesk](https://nodesk.co/) |  | :earth_americas: | :heavy_check_mark:
+[SkipTheDrive](https://www.skipthedrive.com/) |  | :earth_americas: | :heavy_check_mark:
+[Pangian](https://pangian.com/) |  | :earth_americas: | :heavy_check_mark:
+[RemoteWorkJunkie](https://jobs.remoteworkjunkie.com/) |  | :earth_americas: | :heavy_check_mark:
+[Remote.co](https://remote.co/) |  | :earth_americas: | :heavy_check_mark:
+[JustRemote](https://justremote.co/) |  | :earth_americas: | :heavy_check_mark:
+[SwissDevJobs](https://swissdevjobs.ch/) | Switzerland market job board | :switzerland: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[TechInAsia](https://www.techinasia.com/jobs) | Asian market job board | :singapore: :indonesia: :vietnam: :thailand: :malaysia: :cn: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[Wellfound (Old Angel.co)](https://wellfound.com/jobs) | | :earth_americas: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[Landing.jobs](https://landing.jobs/) | | :earth_americas: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[Relocate.me](https://relocate.me/) | Jobs for devs looking to relocate | :earth_americas: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[Offerzen](https://www.offerzen.com/) | Free talent advisor to help you find new opportunities | :earth_americas: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[Honeypot](https://www.honeypot.io/en/) | | :earth_americas: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[Otta](https://otta.com/) | | :earth_americas: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[Crunchboard](https://www.crunchboard.com/) | | :earth_americas: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[PowerToFly](https://powertofly.com/jobs/) | | :earth_americas: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[YCombinator Jobs](https://www.workatastartup.com/) | | :earth_americas: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[FlexaCareers](https://flexa.careers/) | | :earth_americas: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[DevItJobs](https://devitjobs.uk/jobs/all) | United Kingdom specialized board| :uk: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[DevJobs.ro](https://devjob.ro/jobs/all) | Romanian dev jobs| :romania: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[GermanTechJobs](https://germantechjobs.de/en/jobs/all/) | German dev jobs | :de: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[DotNetDevs](https://dotnetdevs.co/jobs) | .net jobs | :earth_americas: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[RustJobs](https://rustjobs.dev/) | Rust | :earth_americas: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[Web3.career](https://web3.career/) | Web3 | :earth_americas: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[RemoteFrontendJobs](https://www.remotefrontendjobs.com/) | Frontend | :earth_americas: | Remote
+[RubyRemote](https://rubyonremote.com/) | Ruby | :earth_americas: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[JobsInJs](https://jobsinjs.com/) | Javascript | :earth_americas: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[R-users](https://www.r-users.com/) | R | :earth_americas: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[4dayweek](https://4dayweek.io/) | 4 day weeks | :earth_americas: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[Ai-jobs](https://ai-jobs.net/) | Artificial Intelligence | :earth_americas: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[DataJobs](https://datajobs.com/) | Data | :earth_americas: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[KDNuggets](https://www.kdnuggets.com/jobs/index.html) | Data | :earth_americas: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[DataYoshi](https://datayoshi.com/) | Data | :earth_americas: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[DataUmbrella](https://jobs.dataumbrella.org/) | Data | :earth_americas: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | |
+[OuterJoin](https://outerjoin.us/) | Data | :earth_americas: | :heavy_check_mark:
+[StarBridgePartnets](https://starbridgepartners.com/job-listing/) | Data | :earth_americas: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[OpenDataScience](https://jobs.opendatascience.com/) | Data | :earth_americas: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[TechJobsForGood](https://techjobsforgood.com/) | Jobs with a social impact | :earth_americas: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[Hitmarker](https://hitmarker.net/jobs) | Games | :earth_americas: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[DevOpsJobs](https://devops-jobs.net/) | DevOps | :earth_americas: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[Larajobs](https://larajobs.com/) | Php Laravel | :earth_americas: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[RemoteWoman](https://remotewoman.com/) | Woman only job board | :earth_americas: | :heavy_check_mark: | |
+[Dbt](https://www.getdbt.com/analytics-engineering/jobs) | Dbt Analytics Engineering | :earth_americas: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[JustJoin](https://justjoin.it/) | B2B | :earth_americas: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
