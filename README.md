@@ -57,7 +57,8 @@ Website | Description | Location | Remote | Hybrid | Onsite
 [SwissDevJobs](https://swissdevjobs.ch/) | Switzerland market job board | :switzerland: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 [TechInAsia](https://www.techinasia.com/jobs) | Asian market job board | :singapore: :indonesia: :vietnam: :thailand: :malaysia: :cn: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 [TechFetch](https://www.techfetch.com/) | | :us: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
-[TechJobsForGood](https://techjobsforgood.com/) | Jobs with a social impact | :earth_americas: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[TechJobsForGood](https://techjobsforgood.com/) | Jobs with a social impact | :us: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+[Tech4GoodJobs](https://tech4goodjobs.com/) | Jobs with a social impact  | :earth_americas: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 [Ttree.ai](https://ttree.ai/) | | :earth_americas: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 [Wellfound (Old Angel.co)](https://wellfound.com/jobs) | | :earth_americas: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 [WeWorkRemotely](https://weworkremotely.com/) |  | :earth_americas: | :heavy_check_mark:
